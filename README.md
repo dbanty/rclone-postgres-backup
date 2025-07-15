@@ -60,4 +60,4 @@ Update `postgresql17-client` in `Dockerfile` to whichever version of Postgres yo
 [pg_dump]: https://www.postgresql.org/docs/current/app-pgdump.html
 [pg_restore]: https://www.postgresql.org/docs/current/app-pgrestore.html
 [rclone]: https://rclone.org
-[rclone config file]: https://github.com/dbanty/rclone-postgres-backup/tree/entrypoint.sh#L7-L16
+[rclone config file]: https://github.com/dbanty/rclone-postgres-backup/blob/main/entrypoint.sh#L8
