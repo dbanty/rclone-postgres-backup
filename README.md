@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/7GOA4r?referralCode=xsbY2R)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/aujTA1?referralCode=xsbY2R)
 
 # Backup Postgres to Cloudflare R2
 
