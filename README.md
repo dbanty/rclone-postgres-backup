@@ -26,9 +26,6 @@ And these variables related to Cloudflare R2:
 
 ### Railway-specific guide
 
-> [!TIP]
-> You can also [deploy Postgres with these backups enabled](https://railway.app/template/xNTYS8?referralCode=xsbY2R) if you don't have a database yet.
-
 If you're running this container in Railway, you can use shared variables for all the Postgres variables (replace `Postgres` in each expression with the name of your database service):
 
 - `PGHOST`: `${{Postgres.PGHOST}}`
