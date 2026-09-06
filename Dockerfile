@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM rclone/rclone:1.70.3 AS rclone
+FROM rclone/rclone:1.75.1 AS rclone
 
 FROM alpine:3
 
